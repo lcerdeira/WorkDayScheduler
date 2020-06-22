@@ -6,10 +6,9 @@ Create a simple calendar application that allows the user to save events for eac
 ## Acceptance Criteria
 
 
-The following animation demonstrates the application functionality:
+The following animation demonstrates the application functionality, But I improve :D
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
